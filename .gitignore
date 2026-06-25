@@ -74,3 +74,4 @@ Frontend/.env.production.local
 # Vercel and other deployments
 .vercel/
 .vercel
+.env
