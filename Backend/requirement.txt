@@ -6,3 +6,4 @@ PyJWT
 requests
 google-genai
 requests
+gunicorn
